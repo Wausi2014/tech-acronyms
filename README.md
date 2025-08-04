@@ -1,6 +1,6 @@
 # 📀 Tech Acronyms
 
-A comprehensive list of many acronyms concerning the world of technology.
+A comprehensive list of many acronyms concerning the world of technology. This project was created to help those who study or work in technology better navigate the thousands of acronyms used every day.
 
 ## 🙏 Contributing
 
