@@ -3,7 +3,7 @@
 A comprehensive list of many acronyms concerning the world of technology. This project was created to help those who study or work in technology better navigate the thousands of acronyms used every day.
 
 | Abbreviation     | Full Form                          |
-|:----------------:|------------------------------------|
+|------------------|------------------------------------|
 | **AI**           | Artificial Intelligence            |
 | **API**          | Application Programming Interface  |
 | **BSOD**         | Blue Screen of Death               |
@@ -48,4 +48,4 @@ This repository is for informational and educational purposes only. While we str
 
 - [Computer Related Terms Abbreviations - Unacademy](https://unacademy.com/content/bank-exam/study-material/computer-knowledge/computer-related-terms-abbreviations/)
 - [All About Computer Abbreviation - Unacademy](https://unacademy.com/content/bank-exam/study-material/computer-knowledge/all-about-computer-abbreviation/)
-- [All Acronyms](https://www.allacronyms.com/)
+- [All Acronyms](https://www.allacronyms.com/technology/abbreviations)
