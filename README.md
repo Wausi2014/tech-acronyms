@@ -1,5 +1,10 @@
 # 📀 Tech Acronyms
 
+<p>
+  <img alt="Contributions welcome" src="https://img.shields.io/badge/Contributions-welcome-green">
+  <img alt="License MIT" src="https://img.shields.io/badge/License-MIT-orange">
+</p>
+
 A comprehensive list of many acronyms concerning the world of technology. This project was created to help those who study or work in technology better navigate the thousands of acronyms used every day.
 
 | Abbreviation     | Full Form                          |
